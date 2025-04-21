@@ -1,0 +1,15 @@
+{
+  "name": "neurotetris",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Thomas Stadje",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "blessed": "^0.1.81"
+  }
+}
