@@ -8,8 +8,7 @@ A simple yet engaging command-line Tetris clone built with Node.js and the amazi
 
 ---
 
-<!-- Optional: Add a GIF screencast of the game here! -->
-<!-- ![NeuroTetris Gameplay](link/to/your/gameplay.gif) -->
+<div align="center">
 
 ```
  _______ _______ _______ _______ _______ _______ _______ _______ _______ _______ _______ 
@@ -17,6 +16,10 @@ A simple yet engaging command-line Tetris clone built with Node.js and the amazi
 |   N   |   E   |   U   |   R   |   O   |   T   |   E   |   T   |   R   |   I   |   S   |
 |_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|_______|
 ```
+
+</div>
+
+<img src="neurotetris.gif" alt="NeuroTetris Demo" style="display: block; margin-left: auto; margin-right: auto; width:30%;" />
 
 NeuroTetris brings the classic block-stacking puzzle game to your terminal. Perfect for a quick break or honing your spatial skills!
 
